@@ -1,12 +1,14 @@
-# Ping Pong Game
+# <span style="color: #F4511E;">Ping Pong Game</span>
 
 A professional Ping Pong game implemented in Python using the pygame library. Experience the classic 2D gameplay, compete against friends, and enjoy the interactive and engaging features of this game.
 
-## Installation
+## <span style="color: #1976D2;">Installation</span>
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/PingPongGame.git
+Open a Command Prompt
+
+git clone https://github.com/yosxke/PingPongGame.git
 
 2. Navigate to the project directory:
 
@@ -16,7 +18,8 @@ cd PingPongGame
 
 open install.bat
 
-## Usage
+
+## <span style="color: #1976D2;">Usage</span>
 
 1. Run the game:
 
@@ -31,7 +34,7 @@ Run the Game by opening the run.bat
 
 4. Enjoy the Ping Pong game and compete to achieve the highest score!
 
-## Showcase
+## <span style="color: #1976D2;">Showcase</span>
 
 Include the following screenshots to showcase different aspects of your game:
 
@@ -47,14 +50,15 @@ Include the following screenshots to showcase different aspects of your game:
 4. Customization: 
     ![Settings_screen](assets/Screenshots/Screenshot_Options.png)
 
-## Contributing
+## <span style="color: #1976D2;">Contributing</span>
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them with descriptive commit messages.
 4. Push your changes to your forked repository.
 5. Submit a pull request to the main repository.
 
-
 For any inquiries or feedback, please contact [ME](mailto:jannik.schreier@gmx.de).
+
