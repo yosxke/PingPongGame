@@ -70,3 +70,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 For any inquiries or feedback, please contact [ME](mailto:jannik.schreier@gmx.de).
 
+## <span style="color: #1976D2;">Credits</span>
+
+Credits to [@BaralTech](https://www.youtube.com/watch?v=GMBqjxcKogA&t=2s)
+
