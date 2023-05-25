@@ -39,15 +39,23 @@ Run the Game by opening the run.bat
 Include the following screenshots to showcase different aspects of your game:
 
 1. Menu Screen: 
+
+
     ![Menu_screen](assets/Screenshots/Screenshot_menu.png)
 
 2. Gameplay: 
+
+
     ![Gameplay_screen](assets/Screenshots/Screenshot_Game.png)
 
-3. Highscore
+3. Highscore:
+
+
     ![Highscore_screen](assets/Screenshots/Screenshot_Highscore.png)
 
 4. Customization: 
+
+
     ![Settings_screen](assets/Screenshots/Screenshot_Options.png)
 
 ## <span style="color: #1976D2;">Contributing</span>
